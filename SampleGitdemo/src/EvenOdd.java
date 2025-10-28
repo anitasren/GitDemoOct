@@ -9,7 +9,7 @@ public class EvenOdd {
 		
 		//Read input
 		System.out.println("Enter input: ");
-		System.out.println("Git test2");
+		System.out.println("Git test4");
 		
 		//Take input
 		Scanner s=new Scanner(System.in);
